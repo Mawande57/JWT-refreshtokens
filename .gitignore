@@ -1,0 +1,21 @@
+# App settings (sensitive data)
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+
+# Launch settings
+Properties/launchSettings.json
+
+# Also commonly ignored:
+*.user
+*.suo
+bin/
+obj/
+node_modules/
+.env
+*.log
+.DS_Store 
+
+# Visual Studio
+.vs/
+*.vsidx
