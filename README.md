@@ -15,7 +15,7 @@ From the Program.cs you will find how I use DI to configure and register the JWT
 
 -finally ensure you have comments unlike me!!
 
-if you are still lost or uncomfortable with JWT and refresh tokens have a look at this vid 
+if you are still lost or uncomfortable with JWT and refresh tokens have a look at this video
 ## https://youtu.be/6EEltKS8AwA?si=qsY7OLGnDcgrwAM0 
 -Then try doing it your self once again till you master it , learning this will improve your skill on security , enabling you to build secure API's 
 #Happy coding <!!>
