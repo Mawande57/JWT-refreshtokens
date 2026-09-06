@@ -6,6 +6,8 @@ From the Program.cs you will find how I use DI to configure and register the JWT
 -Ensure to install th necessary libraries
 
 -create your ASP.NET Core web API project on your machine (VS)
+
+
 -clone this repo to see how you should create your folders
 
 -user scalar/postman to test your API endpoints (scalar URL EXAMPLE => https://localhost:###/scalar/v1) 
